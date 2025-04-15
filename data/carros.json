@@ -1,0 +1,38 @@
+[
+    {
+        "id": "67fd86fc16823",
+        "nome": "Volkswagen GOL",
+        "descricao": "Ano\r\n1995\r\n\r\nQuilometragem\r\n39.000Km\r\n\r\nC\u00e2mbio\r\nC\u00e2mbio Manual\r\n\r\nCombust\u00edvel\r\nGasolina\r\n\r\nCor\r\nBranca\r\n\r\nPortas\r\n2\r\n\r\nCarroceria\r\nHatchback Compacto\r\n\r\nPlaca\r\ni**-****",
+        "imagem": "67fd86fc1661f.jpg"
+    },
+    {
+        "id": "67fd874c21d10",
+        "nome": "Volkswagen KOMBI",
+        "descricao": "Ano\r\n1986\r\n\r\nQuilometragem\r\n34.366Km\r\n\r\nC\u00e2mbio\r\nC\u00e2mbio Manual\r\n\r\nCombust\u00edvel\r\nFlex\r\n\r\nCor\r\nBranca\r\n\r\nPortas\r\n2\r\n\r\nCarroceria\r\nMinivan Medio\r\n\r\nPlaca\r\na**-****",
+        "imagem": "67fd874c21b43.jpg"
+    },
+    {
+        "id": "67fd87d99e69d",
+        "nome": "Volkswagen FUSCA",
+        "descricao": "Ano\r\n1975\r\n\r\nQuilometragem\r\n16.216Km\r\n\r\nC\u00e2mbio\r\nC\u00e2mbio Manual\r\n\r\nCombust\u00edvel\r\nGasolina\r\n\r\nCor\r\nBege\r\n\r\nPortas\r\n2\r\n\r\nCarroceria\r\nHatch\r\n\r\nPlaca\r\na**-****",
+        "imagem": "67fd87d99ce1a.jpg"
+    },
+    {
+        "id": "67fd88619c03b",
+        "nome": "Ford CORCEL ",
+        "descricao": "Ano\r\n1977\r\n\r\nQuilometragem\r\n1.000Km\r\n\r\nC\u00e2mbio\r\nC\u00e2mbio Manual\r\n\r\nCombust\u00edvel\r\nGasolina\r\n\r\nCor\r\nAmarela\r\n\r\nPortas\r\n2\r\n\r\nCarroceria\r\nSedan Compacto\r\n\r\nPlaca\r\nI**-****",
+        "imagem": "67fd88619bdd3.jpg"
+    },
+    {
+        "id": "67fd890de373f",
+        "nome": "Chevrolet KADETT IPANEMA",
+        "descricao": "Ano\r\n1994\r\n\r\nQuilometragem\r\n564.239Km\r\n\r\nC\u00e2mbio\r\nC\u00e2mbio Manual\r\n\r\nCombust\u00edvel\r\nGasolina\r\n\r\nCor\r\nCinza\r\n\r\nPortas\r\n4\r\n\r\nCarroceria\r\nStation-Wagon Medio\r\n\r\nPlaca\r\nA**-****",
+        "imagem": "67fd890de33bf.jpg"
+    },
+    {
+        "id": "67fd893ea9478",
+        "nome": "Ford CORCEL BELINA",
+        "descricao": "no\r\n1976\r\n\r\nQuilometragem\r\n100.000Km\r\n\r\nC\u00e2mbio\r\nC\u00e2mbio Manual\r\n\r\nCombust\u00edvel\r\nGasolina\r\n\r\nCor\r\nAmarela\r\n\r\nPortas\r\n2\r\n\r\nCarroceria\r\nStation-Wagon Medio\r\n\r\nPlaca\r\nI**-****",
+        "imagem": "67fd893ea918c.jpg"
+    }
+]
